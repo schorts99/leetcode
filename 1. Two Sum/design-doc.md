@@ -136,4 +136,3 @@ node --test src/index.test.js
 ## References
 
 - [LeetCode 1. Two Sum](https://leetcode.com/problems/two-sum)
-
