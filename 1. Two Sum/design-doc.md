@@ -1,7 +1,9 @@
 # 1. Two Sum
 
 Author(s): [Jorge Castillo](https://github.com/schorts99)
+
 Status: Completed
+
 Last Updated: Aug 05, 2026
 
 ## Table of Contents
